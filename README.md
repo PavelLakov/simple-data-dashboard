@@ -1,12 +1,9 @@
 ---
-title: Simple Data Dashboard
-emoji: 📊
-colorFrom: purple
-colorTo: blue
-sdk: streamlit
-python_version: 3.11
-app_file: app.py
-pinned: false
+
+
+https://huggingface.co/spaces/pavellakov/simple-data-dashboard
+
+
 ---
 
 # Simple Data Dashboard (Streamlit)
