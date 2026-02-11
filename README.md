@@ -1,7 +1,6 @@
 ---
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://huggingface.co/spaces/pavellakov/simple-data-dashboard)
 
-
-https://huggingface.co/spaces/pavellakov/simple-data-dashboard
 
 
 ---
